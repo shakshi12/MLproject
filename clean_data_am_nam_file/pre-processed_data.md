@@ -7,5 +7,5 @@ NB! Code for all these below mentioned steps are present in jupyter file named -
 5. Final saved uploaded file - 'cleaned_am_nam_articles.csv'
 
 ## Apply NLP for converting articles into vectors using Word2Vec
-Final file for use for model training and testing - 'word2vec_features_with_labels.csv'
+Final file for use for model training and testing - 'word2vec_features_with_labels_after_removing_noisy_columns.csv'
 
